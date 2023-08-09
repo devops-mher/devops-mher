@@ -33,7 +33,6 @@ version-resolver:
       - 'bug'
       - 'maintenance'
       - 'docs'
-      - 'dependencies'
       - 'security'
 
 exclude-labels:
