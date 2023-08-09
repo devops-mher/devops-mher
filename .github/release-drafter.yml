@@ -1,40 +1,40 @@
-  name-template: 'v$RESOLVED_VERSION'
-  tag-template: 'v$RESOLVED_VERSION'
-  template: |
-    # What's Changed
+name-template: 'v$RESOLVED_VERSION'
+tag-template: 'v$RESOLVED_VERSION'
+template: |
+  # What's Changed
 
-    $CHANGES
+  $CHANGES
 
-    **Full Changelog**: https://github.com/$OWNER/$REPOSITORY/compare/$PREVIOUS_TAG...v$RESOLVED_VERSION
+  **Full Changelog**: https://github.com/$OWNER/$REPOSITORY/compare/$PREVIOUS_TAG...v$RESOLVED_VERSION
 
-  categories:
-    - title: 'Breaking'
-      label: 'breaking'
-    - title: '🚀 Features'
-      label: 'feature'
-    - title: '🐛 Bug Fixes'
-      lable: 'bug'
-    - title: 'Maintenance'
-      label: 'maintenance'
-    - title: 'Documentation'
-      label: 'docs'
-      collapse-after: 5
+categories:
+  - title: 'Breaking'
+    label: 'breaking'
+  - title: '🚀 Features'
+    label: 'feature'
+  - title: '🐛 Bug Fixes'
+    lable: 'bug'
+  - title: 'Maintenance'
+    label: 'maintenance'
+  - title: 'Documentation'
+    label: 'docs'
+    collapse-after: 5
 
-release-drafter.yml
-  version-resolver:
-    major:
-      labels:
-        - 'breaking'
-    minor:
-      labels:
-        - 'feature'
-    patch:
-      labels:
-        - 'bug'
-        - 'maintenance'
-        - 'docs'
-        - 'dependencies'
-        - 'security'
 
-  exclude-labels:
-    - 'skip-changelog'
+version-resolver:
+  major:
+    labels:
+      - 'breaking'
+  minor:
+    labels:
+      - 'feature'
+  patch:
+    labels:
+      - 'bug'
+      - 'maintenance'
+      - 'docs'
+      - 'dependencies'
+      - 'security'
+
+exclude-labels:
+  - 'skip-changelog'
