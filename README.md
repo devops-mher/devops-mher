@@ -9,7 +9,6 @@ DevOps Engineer with 4+ years of intensive experience having 20 years of backgro
 * 🌍  I'm based in Yerevan
 * ✉️  You can contact me at [mher.poghosyan@ymail.com](mailto:mher.poghosyan@ymail.com)
 * 🚀  I'm currently working on [Ucraft](http://next2.ucraft.ai/)
-* 🧠  I'm learning Django, Flask, FastAPI
 
 ### Skills
 
@@ -49,11 +48,5 @@ DevOps Engineer with 4+ years of intensive experience having 20 years of backgro
 ### Socials
 
 <p align="left"> <a href="https://www.facebook.com/poghosyan.mher/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/devops-mher" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mher-poghosyan/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-## Stats Available
-
-<img width=400 src='https://github-readme-stats.vercel.app/api?username=devops-mher&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
-<img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=devops-mher&theme=vue-dark&hide_border=true' />
-<img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=devops-mher&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
 
 
